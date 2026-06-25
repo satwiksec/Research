@@ -36,10 +36,6 @@ Even after using anonymity tools like tails, logging into profiles like that of 
 Tor was originally designed by the U.S. Naval Research Laboratory for Anonymous government communications. Today, it is used around the world by journalists, human rights whistleblowers, and citizens bypassing censorship.
 
 
-## Boot Menu
-
-![Boot Menu](images2/tails-boot.jpeg)
-
 ## Welcome Screen
 
 ![Welcome](images2/tails-welcome.jpeg)
