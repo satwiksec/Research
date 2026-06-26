@@ -47,11 +47,13 @@ Tor was originally designed by the U.S. Naval Research Laboratory for Anonymous 
 
 # Understanding the Tor Circuit
 
-![Tor Circuit](images2/Tor-circuit.jpeg)
 
 The image above shows the **Tor circuit** created while connecting to DuckDuckGo's `.onion` website.
 
 Instead of sending traffic directly to the destination, Tor routes it through multiple relays. Each relay only knows a small part of the communication, which helps protect the user's anonymity.
+
+![Tor Circuit](images2/Tor-circuit.jpeg)
+
 
 ## What the Screenshot Shows
 
