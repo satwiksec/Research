@@ -32,7 +32,7 @@ Even after using anonymity tools like tails, logging into profiles like that of 
 
 ## **Common Misconceptions:**
 
-*Dark web/Tor is inherently illicit or criminal.*
+*"Dark web/Tor is inherently illicit or criminal."*
 Tor was originally designed by the U.S. Naval Research Laboratory for Anonymous government communications. Today, it is used around the world by journalists, human rights whistleblowers, and citizens bypassing censorship.
 
 
