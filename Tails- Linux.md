@@ -47,7 +47,7 @@ Tor was originally designed by the U.S. Naval Research Laboratory for Anonymous 
 
 # Understanding the Tor Circuit
 
-![Tor Circuit](images2/tor-circuit.jpeg)
+![Tor Circuit](images2/Tor-circuit.jpeg)
 
 The image above shows the **Tor circuit** created while connecting to DuckDuckGo's `.onion` website.
 
